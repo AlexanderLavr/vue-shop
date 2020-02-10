@@ -10,3 +10,6 @@ yarn install
 ```
 yarn start-server
 ```
+
+
+## The app is runing on http://localhost:3200
