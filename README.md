@@ -5,20 +5,8 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Start project using node.js
 
-### Compiles and minifies for production
 ```
-yarn build
+yarn start-server
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
