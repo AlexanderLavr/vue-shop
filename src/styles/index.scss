@@ -1,0 +1,23 @@
+@import './drawer.scss';
+@import './card.scss';
+@import './header.scss';
+@import './cart.scss';
+
+.img-container {
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: contain !important;
+}
+
+.empty-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    h1 {
+        width: 100%;
+        text-align: center;
+        color: red;
+        font-size: 48px;
+    }
+}
